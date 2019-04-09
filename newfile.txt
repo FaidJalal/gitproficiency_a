@@ -1,5 +1,12 @@
+merge conflicts occur when changes are made to same text in two different branches and while merging, git doesn’t know which changes to adapt and which not, thus raises a conflict message. Merge conflicts can be resolved in three ways
+
+SRINAGAR is the SUMMER capital city of jammu and kashmir, SRINAGAR is vastcts occur when changes are made to same text in two different branches and while merging, git doesn’t know which changes to adapt and which not, thus raises a conflict message. Merge conflicts can be resolved in three waysly dense area in whole Kashmir. SRINAGAR being the capital city of kashmir, most of the business is done here.
+Streets of SRINAGAR are filled with tourists, and many scenic locations are situated in SRINAGAR.
+SRINAGAR being capital of kashmir, most of the constrution and development is done in SRINAGAR. The Sectrait is situated in SRINAGAR and High Court JK is in SRINAGAR.
+
+
 SRINAGAR is the SUMMER capital city of jammu and kashmir, SRINAGAR is vastly dense area in whole Kashmir. SRINAGAR being the capital city of kashmir, most of the business is done here.
 Streets of SRINAGAR are filled with tourists, and many scenic locations are situated in SRINAGAR.
 SRINAGAR being capital of kashmir, most of the constrution and development is done in SRINAGAR. The Sectrait is situated in SRINAGAR and High Court JK is in SRINAGAR.
 
-SRINAGAR is beautiful city and famous dal lake is in SRINAGAR.
+

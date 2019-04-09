@@ -2,23 +2,17 @@ Provided by USConstitution.net
 ------------------------------
 
 
-Section 1
-All legislative Powers herein granted must be vested in a Congress of the
-United States, which must consist of a Senate and House of Representatives.The house of representatives must be composed of members chosen every second.
-[Note: Repealed text is not noted in this version.  Spelling errors have been
-corrected in this version.  For an uncorrected, annotated version of the
-Constitution, visit http://www.usconstitution.net/const.html ]
-We the People of the United States, in Order to form a more perfect Union,
-establish Justice, insure domestic Tranquility, provide for the common
-defence, promote the general Welfare, and secure the Blessings of Liberty to
-ourselves and our Posterity, do ordain and establish this Constitution for the
-United States of America.
 
-Article 1.
 
-Section 1
-All legislative Powers herein granted must be vested in a Congress of the
-United States, which must consist of a Senate and House of Representatives.The house of representatives must be composed of members chosen every second.
+Immediately after they must be assembled in Consequence of the first Election,
+they must be divided as equally as may be into three Classes. The Seats of the
+Senators of the first Class must be vacated at the Expiration of the second
+Year, of the second Class at the Expiration of the fourth Year, and of the
+third Class at the Expiration of the sixth Year, so that one third may be
+chosen every second Year; and if Vacancies happen by Resignation, or otherwise,
+during the Recess of the Legislature of any State, the Executive thereof may
+make temporary Appointments until the next Meeting of the Legislature, which
+must then fill such Vacancies.
 
 Section 2
 The House of Representatives must be composed of Members chosen every second
